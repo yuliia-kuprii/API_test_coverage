@@ -1,0 +1,16 @@
+{
+  "name": "api_test_coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "jest": "^27.4.7"
+  }
+}
